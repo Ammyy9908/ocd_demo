@@ -1,0 +1,17 @@
+.phirlo_about_hidden{
+    display: none !important;
+}
+
+.phirlo_more{
+    width:100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    background-color: green;
+    flex-direction: column;
+    justify-content: center;
+}
+
