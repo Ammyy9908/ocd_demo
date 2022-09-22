@@ -41,7 +41,7 @@ function RenderAbout(){
     const root = document.getElementById("root");
     const about_contaner = `
     <div class="phirlo_more phirlo_about_hidden">
-    <h1>You've opted for a Climate conscious Journey!</h1>
+    <h1>You've opted for a Smooth Wordrobe Decluttering Journey!</h1>
     <h3>Here's how it works</h3>
 
     <p>Phirlo is a platform that helps you declutter your wardrobe and earn money in the process. We also help you to shop more sustainably by providing you with a curated list of sustainable brands.</p>
